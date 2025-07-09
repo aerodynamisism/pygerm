@@ -2,6 +2,11 @@
 
 a terminal-based germ sim that spreads, clones, and eventually infects the whole screen. just run it and watch the infection take over. nothing fancy — just pure terminal chaos.
 
+## requirements
+
+python
+curses
+
 ---
 
 ## how it works
