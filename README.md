@@ -21,8 +21,7 @@ a terminal-based germ sim that spreads, clones, and eventually infects the whole
 ```bash
 python3 pygerm.py
 
-
-```or make it executable:
+OR
 
 chmod +x pygerm.py
 ./pygerm.py
